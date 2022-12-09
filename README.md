@@ -22,17 +22,17 @@ And additionally start the rails server in your console.
 
 - A `Review` belongs to a `User`
 
-# Deployment to Railway  :+1::bullettrain_front:
+# Deployment to Render  :+1:
 
 1. Create the application: Develop the application using the appropriate programming language and frameworks.
 
 2. Set up the database: Set up the database that will be used to store the application's data.
 
-3. Configure the server: Configure the server that will host the application on Railway.
+3. Configure the server: Configure the server that will host the application on Render.
 
-4. Configure the environment: Configure the environment that will be used to run the application on Railway. This includes setting up the necessary libraries and packages.
+4. Configure the environment: Configure the environment that will be used to run the application on Render. This includes setting up the necessary libraries and packages.
 
-5. Deploy the application: Deploy the application to Railway using the appropriate methods. This could involve using a deployment tool such as Capistrano or a manual deployment process.
+5. Deploy the application: Deploy the application to Render using the appropriate methods. This could involve using a deployment tool such as Capistrano or a manual deployment process.
 
 6. Test the application: Test the application to make sure it is running as expected.
 
