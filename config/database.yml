@@ -81,6 +81,7 @@ test:
 #
 production:
   <<: *default
+  url: <%= ENV['DATABASE_URL'] %>
   database: Grocery_Backend_production
   username: Grocery_Backend
   password: <%= ENV["GROCERY_BACKEND_DATABASE_PASSWORD"] %>
