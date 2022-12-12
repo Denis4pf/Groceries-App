@@ -1,6 +1,6 @@
 ## README
 
-# My Online Grocery Api  :star2:
+# My Online Grocery   :star2:
 
 # Optional :point_left:
 ## Instructions for set up 
